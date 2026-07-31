@@ -48,14 +48,16 @@ Copyright [Year name] [Name of company/organization]
   specific prior written consent. 
   (4) If you create a variation of This Software, free or otherwise, modified
   files must carry prominent notices stating that they have been changed.
+  (5) Any Derivative Work distributed by you must be licensed under the SOSA-OSSL v3.0. 
+  You may not impose additional restrictions on the rights granted by this license.
 
 5. Limitation on Liability
-	THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT ANY WARRANTY OF ANY KIND, EXPRESS 
-  OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
-  FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. UNDER NO CIRCUMSTANCES 
-  SHALL THE CREATOR(S) BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITIES, 
-  WHETHER ARISING FROM CONTRACT, TORT, OR OTHERWISE, RELATED TO THE SOFTWARE 
-  OR THE USE OR OTHER DEALINGS WITH THE SOFTWARE.
+	This Software is provided "as is", without warranty of any kind, express
+	or implied, including but not limited to the warranties of merchantability,
+	fitness for a particular purpose, and noninfringement. Under no circumstances
+	shall the Creator(s) be liable for any claim, damages, or other liabilities,
+	whether arising from contract, tort, or otherwise, related to the software or
+	the use or dealings with the software.
 
 6. Termination
 	If any of the terms as described in 4. Restrictions are violated, all rights
