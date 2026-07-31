@@ -1,0 +1,18 @@
+SOSA-OSSL v3.0 Optional Commercial Distribution Addendum
+
+This software is licensed under the SOSA-OSSL v3.0. 
+The copyright holder has also elected to apply the 
+Optional Commercial Distribution Addendum.
+
+In addition to the rights and terms as described in
+the SOSA-OSSL v3.0, the following restriction is added.
+
+  If you intend to sell This Software in its unmodified form, alone
+  or as part of a bundle with other software provided free-of-charge, 
+  you must first request permission from the Creator(s) of This 
+  Software to do so and may not begin such distribution until 
+  permission has been granted.
+
+Violation of this addendum constitutes a violation of the SOSA-OSSL 
+v3.0 and may result in termination of the rights granted under that 
+license as provided in Section 6.
