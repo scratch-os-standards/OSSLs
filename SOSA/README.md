@@ -4,7 +4,7 @@ The SOSA-OSSL 3.0 is the latest and greatest version of the OSSL meant to solve 
 Many previous authors using past versions of the OSSL (especially the SCA-OSSL 1.0) mistakenly called it "open-source" or "FOSS," which is legally incorrect. This is because all OSSLs before 3.0 featured a clause that restricted the sale of the unmodified version of the software, which violates the Open Source Initiative's definition of Open Source software, along with the GNU Foundation's definition of Free Software.
 
 ## SOSA-OSSL 3.0 alone
-The SOSA-OSSL is intended to comply with the Open Source Definition and qualify as Free Software under the four freedoms, so for most practical purposes, it can be referred to as a FOSS (Free and Open-source) software license. It is still important to note that the SOSA-OSSL v3.0, or any OSSL, has been reviewed by the OSI.
+The SOSA-OSSL is intended to comply with the Open Source Definition and qualify as Free Software under the four freedoms, so for most practical purposes, it can be referred to as a FOSS (Free and Open-source) software license. It is still important to note that the SOSA-OSSL v3.0, or any OSSL, has not been reviewed by the OSI.
 
 ## SOSA-OSSL 3.0 + OCDA
 The OCDA is a clause that restores the restriction on commercial redistribution as seen in previous OSSLs. This makes software that uses the OCDA not open-source. Instead, you may refer to it as "Source-available" or other similar terms.
