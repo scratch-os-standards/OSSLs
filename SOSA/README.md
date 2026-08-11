@@ -13,6 +13,7 @@ The OCDA is a clause that restores the restriction on commercial redistribution 
 These are past OSSLs that include the clause to restrict commercial redistribution and therefore are not free or open-source.
 
 # Which to choose?
+```
 Is your software under the SCA-OSSL, SCA-DT-OSSL, or DT-OSSL?
 -> Do you want to retain similar rights and conditions with your current license?
   -> SOSA-OSSL 3.0 + OCDA (Adds copyleft, retains commercial redistribution restriction, not FOSS)
@@ -24,3 +25,4 @@ Is your software currently under an OSI-compliant license, or are you making a n
   -> SOSA-OSSL 3.0
 -> Are you worried about people profiting off of your work without your knowledge?
   -> SOSA-OSSL 3.0 + OCDA (must request permission before commercially redistributing, not FOSS)
+```
